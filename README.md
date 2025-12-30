@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Edy 👋
 
-<!--
-**Edy-CM/Edy-CM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer with a background in Web Development and a strong interest in cloud infrastructure and automation.  
+I enjoy building scalable, reliable systems and improving development and deployment workflows.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Cloud:** AWS
+- **Infrastructure as Code:** Terraform
+- **Containers:** Docker
+- **OS:** Linux
+- **DevOps:** CI/CD, Cloud Networking
+- **Web:** Web Development fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Design and automate cloud infrastructure
+- Build and maintain containerized environments
+- Improve CI/CD pipelines and deployment workflows
+- Collaborate with developers to deliver reliable systems
+
+## 📈 Mindset
+- Automation over manual processes  
+- Simplicity over complexity  
+- Continuous learning and improvement  
+
+## 📚 Currently Learning
+Advanced AWS services, Terraform best practices, system design, and scalable architectures.
+
+---
+
+⭐ Always curious about how systems work end to end.
