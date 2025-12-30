@@ -26,5 +26,5 @@ I like automating processes, improving deployment workflows, and understanding h
 Advanced AWS services, Terraform best practices, system design, and scalable architectures.
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: [edy-castillo](https://www.linkedin.com/in/edy-castillo)
+- 💼 LinkedIn: [```edy-castillo```](https://www.linkedin.com/in/edy-castillo)
 - 📸 Instagram: [```_edycm_```](https://www.instagram.com/_edycm_)
